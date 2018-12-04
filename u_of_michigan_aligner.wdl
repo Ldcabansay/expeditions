@@ -219,7 +219,7 @@ workflow TopMedAligner {
   meta {
           author : "Mr. Bar"
           email : "foo@foo.com"
-          description: "one line description test"
+          description: "change one line description test"
       }
 }
 
