@@ -217,9 +217,9 @@ workflow TopMedAligner {
       File aligner_output_crai = PostAlign.output_crai_file
   }
   meta {
-          author : "Mr. Bar"
-          email : "foo@foo.com"
-          description: "change one line description test"
+          author : "Mr.Voyages"
+          email : "Voyages@foo.com"
+          description: "voyages repo one line test"
       }
 }
 
