@@ -18,7 +18,7 @@ task bamstats {
 	meta {
 		author: "Mr.Foo"
         	email: "mrFoo@bar.com"
-        	description: "## Bamstats \n This is the documentation for the bamstats workflow. \n Adding documentation improves clarity"
+        	description: "## Bamstats \n This is the documentation for the bamstats workflow.\n\n Adding documentation improves clarity"
 	}
 }
 
