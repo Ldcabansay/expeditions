@@ -17,8 +17,8 @@ task bamstats {
 
 	meta {
 		author: "Mr.Foo"
-        email: "mrFoo@bar.com"
-        description: "this is a branch register test workflow"
+        	email: "mrFoo@bar.com"
+        	description: "## Bamstats \n This is the documentation for the bamstats workflow. \n\n adding documentation improves clarity"
 	}
 }
 
