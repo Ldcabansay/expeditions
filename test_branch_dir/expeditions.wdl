@@ -16,8 +16,8 @@ task bamstats {
 	}
 
 	meta {
-		author: "Mr.Foo"
-        	email: "mrFoo@bar.com"
+		author: "Andrew Duncan"
+        	email: "andrew@foobar.com"
         	description: "## Bamstats \n This is the bamstats workflow.\n\n Adding documentation improves clarity."
 	}
 }
